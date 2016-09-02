@@ -1,2 +1,2 @@
 doubleMe x = x * 2
-pwd x = x*x
+pwd x = x*x	
